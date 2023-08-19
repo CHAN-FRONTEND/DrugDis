@@ -1,0 +1,1233 @@
+[label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 0.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.01563693955540657
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9969099164009094
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999991655349731
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9998843669891357
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999498128890991
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999924898147583
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9996786117553711
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9993956089019775
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9394584894180298
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9973612427711487
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999638795852661
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9995385408401489
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9993733763694763
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999403953552246
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999425411224365
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999982118606567
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999970197677612
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 0.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.000766427197959274
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999805688858032
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999998807907104
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999735355377197
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 0.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.011105562560260296
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9981392621994019
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999998807907104
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 0.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.16654828190803528
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999899864196777
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9995225667953491
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9997087121009827
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.999997615814209
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9996862411499023
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999998807907104
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9997220635414124
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999982118606567
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9954753518104553
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9997504353523254
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9996137022972107
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9998420476913452
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9997462630271912
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999961853027344
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 0.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.14797599613666534
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999796152114868
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999862909317017
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9995008707046509
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9956681728363037
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999955892562866
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999985694885254
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.5038203597068787
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9987819790840149
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 0.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 3.5580029361881316e-05
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9850035309791565
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999727010726929
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.999906063079834
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 0.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.2853497862815857
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.763177752494812
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9968231916427612
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.824069082736969
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9998420476913452
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9998158812522888
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9998549222946167
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9989487528800964
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999967813491821
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9999983310699463
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9958055019378662
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9995092153549194
+    }
+  }
+}
+, label {
+  key: "predicted_label"
+  value {
+    float32_tensor {
+      values: 1.0
+    }
+  }
+}
+label {
+  key: "score"
+  value {
+    float32_tensor {
+      values: 0.9998798370361328
+    }
+  }
+}
+]

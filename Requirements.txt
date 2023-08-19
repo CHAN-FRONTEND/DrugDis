@@ -1,0 +1,13 @@
+boto3
+chembl_webresource_client
+glob
+io
+matplotlib
+numpy
+padelpy
+pandas
+rdkit
+sagemaker
+scipy
+seaborn
+sklearn
